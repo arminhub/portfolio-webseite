@@ -24,7 +24,7 @@ Diese Website wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflicht
 
 ## Technologien
 
-**Client:** HTML, CSS, JavaScript
+HTML, CSS, Bootstrap, JavaScript
 
 ## Mockup (figma)
 ![Mockup](documentation/assets/mockup.png)
