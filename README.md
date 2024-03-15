@@ -2,6 +2,8 @@
 
 ![Screenshot](documentation/assets/screenshot.png)
 
+## Beschreibung
+
 Dies ist eine Portfolio-Website, die mit HTML, CSS und JavaScript erstellt wurde. Die Website verfügt über ein Navigationsmenü sowie Abschnitte für "About", "Projekte", "Leistungen" und "Kontakt". Das Design ist responsiv, sodass es auf verschiedenen Bildschirmgrößen und Geräten gut funktioniert.
 
 Diese Website wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflichtübung (Modul: HTML und CSS für Web Developer:innen) entwickelt.
@@ -20,9 +22,9 @@ Diese Website wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflicht
 
 - **Responsives Design**: Die Website wurde entwickelt, um auf verschiedenen Geräten und Bildschirmgrößen gut auszusehen und zu funktionieren. Dies gewährleistet eine optimale Benutzererfahrung, unabhängig davon, ob die Website auf einem Desktop-Computer, Tablet oder Smartphone angezeigt wird.
 
+## Technologien
+
+**Client:** HTML, CSS, JavaScript
+
 ## Mockup (figma)
 ![Mockup](documentation/assets/mockup.png)
-
-## Verwendung
-
-Um die Website lokal auszuführen, öffnen Sie einfach die `index.html`-Datei in einem Webbrowser Ihrer Wahl.
