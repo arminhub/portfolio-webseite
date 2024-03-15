@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Armin's Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header>
+            <div class="logo"><a href="index.html"><img src="images/logo.svg" alt="Logo"></a></div>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projekte">Projekte</a></li>
+                    <li><a href="#leistungen">Leistungen</a></li>
+                    <li><a href="#kontakt">Kontakt</a></li>
+                    <li><a href="#kontakt"><button class="cta">Jetzt Anfragen</button></a></li>
+                </ul>
+            </nav>
+            <div class="hamburger-menu"><img src="images/menu.svg" alt="menu">
+                <div class="mobile hide">
+                    <nav class="mobile-navlinks">
+                        <a href="#about">About</a>
+                        <a href="#projekte">Projekte</a>
+                        <a href="#leistungen">Leistungen</a>
+                        <a href="#kontakt">Kontakt</a>
+                    </nav>
+                </div>
+            </div>
+        </header>
+        <div class="landing-page">
+            <h1>Hi, I'm Armin <br>Software Developer.<br>Let's work together!</h1>
+            <div class="landing-page-container">
+                <p>Egal, ob du eine App, eine Webseite oder benutzerfreundliche Software brauchst, ich bin hier, um
+                    deine Ideen umzusetzen.</p>
+                <a href="#kontakt"><button class="btn">Jetzt Anfragen</button></a>
+            </div>
+        </div>
+        <div class="about" id="about">
+            <div class="about-wrapper">
+                <main>
+                    <h2>Doch, <br>Willkommen!</h2>
+                    <p>Mein Name ist Armin, ein Softwareentwickler, der sich auf UI/UX Design spezialisiert hat.
+                        Ich biete die perfekte Kombination aus technischem Know-How und Design-Expertise, um
+                        benutzerfreundliche und barrierefreie Lösungen zu entwickeln. </p>
+                    <p>Wenn du einen Entwickler suchst, der sowohl in der Programmierung als auch im Design zu Hause
+                        ist, stehe ich dir gerne zur Verfügung, um deine digitalen Visionen Wirklichkeit werden zu
+                        lassen.</p>
+                    <a href="mailto:#"><button class="btn">Email Senden</button></a>
+                </main>
+            </div>
+        </div>
+        <div class="projekte" id="projekte">
+            <div class="projekte-container">
+                <a href="https://www.behance.net/gallery/69789215/Shopping-App" target="_blank"><img
+                        src="images/projekt01.png" alt="IKEA Shopping App"></a>
+                <h3>IKEA Shopping App</h3>
+                <p>Redesigning the IKEA Store App. Enjoy seamless navigation, personalized recommendations, and a fresh,
+                    user-friendly interface.</p>
+                <a href="https://www.behance.net/gallery/69789215/Shopping-App" target="_blank"><button class="btn">Mehr
+                        Erfahren</button></a>
+            </div>
+            <div class="projekte-container">
+                <a href="https://www.behance.net/gallery/69778227/Responsive-Website" target="_blank"><img
+                        src="images/projekt02.png" alt="IKEA Responsive Website"></a>
+                <h3>IKEA Responsive Website</h3>
+                <p>Redesigning the User Interface and User Experience of IKEA Website. eaturing improved navigation,
+                    personalized suggestions, and an enhanced user interface for an enriched shopping journey.</p>
+                <a href="https://www.behance.net/gallery/69778227/Responsive-Website" target="_blank"><button
+                        class="btn">Mehr Erfahren</button></a>
+            </div>
+            <div class="projekte-container">
+                <a href="https://www.behance.net/gallery/72267101/AKG-Shop-Responsive-Website" target="_blank"><img
+                        src="images/projekt03.png" alt="AKG Responsive Website"></a>
+                <h3>AKG Responsive Website</h3>
+                <p>Redesigning the User Interface and User Experience of AKG Shop Website, for a better shopping
+                    adventure
+                    with improved navigation and personalized recommendations.</p>
+                <a href="https://www.behance.net/gallery/72267101/AKG-Shop-Responsive-Website" target="_blank"><button
+                        class="btn">Mehr Erfahren</button></a>
+            </div>
+        </div>
+        <div class="leistungen" id="leistungen">
+            <div class="leistungen-wrapper">
+                <div class="leistungen-container">
+                    <h2>Meine Leistungen<br>für dich</h2>
+                    <p>Ich biete entsprechende Dienstleistungen für deine individuellen Anforderungen. Dazu gehören
+                        Softwareentwicklung, UI/UX Design, Tests, Wartung, Sicherheit und technische Beratung. </p>
+                    <p>Mein Ziel ist es, innovative digitale Lösungen zu schaffen, die dine Ziele und die Bedürfnisse
+                        deiner
+                        Nutzer erfüllen.</p>
+                </div>
+                <div class="leistungen-container">
+                    <div class="skillbar">
+                        <ul>
+                            <li class="html">HTML</li>
+                            <li class="css">CSS</li>
+                            <li class="js">JavaScript</li>
+                            <li class="uiux">UI/UX</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="kontakt" id="kontakt">
+            <div class="kontakt-wrapper">
+                <div class="kontakt-container">
+                    <h2>Bist du bereit <br>für deine neues <br>Projekt?</h2>
+                    <p>Eine Frage stellen, oder mich engagieren? <br>Dieses Kontaktformular ist dafür da.</p>
+                    <p>Oder einfach:</p>
+                    <p><a href="mailto:#">Email Senden</a></p>
+                </div>
+                <form action="" method="post">
+                    <div class="form-group">
+                        <label class="form-lable" for="name">Name</label>
+                        <input class="form-input" type="text" id="name" name="name" autocomplete="off"
+                            placeholder="Manu Musterperson">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-lable" for="email">Email</label>
+                        <input class="form-input" type="email" id="email" name="email" autocomplete="off"
+                            placeholder="manu@gmail.com">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-lable" for="betreff">Betreff</label>
+                        <input class="form-input" type="text" id="betreff" name="betreff" autocomplete="off"
+                            placeholder="Hellöchen">
+                    </div>
+                    <div class="form-group">
+                        <label class="form-lable" for="nachricht">Nachricht</label>
+                        <textarea class="form-input" id="nachricht" name="nachricht" autocomplete="off"
+                            placeholder="Nachricht eingeben..." cols="30" rows="5"></textarea>
+                    </div>
+                    <a href="#"><button class="btn">Nachricht Senden</button></a>
+                </form>
+            </div>
+        </div>
+        <footer>
+            <div class="footer-wrapper">
+                <p>© 2023 Armin, All Rights Reserved.</p>
+                <a href="https://www.behance.net/arminvie" target="_blank"><img src="images/behance.svg"
+                        alt="Mein Portfolio auf Behance"></a>
+            </div>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
