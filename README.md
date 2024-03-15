@@ -6,9 +6,7 @@
 
 Dies ist eine Portfolio-Website, die mit HTML, CSS und JavaScript erstellt wurde. Die Website verfügt über ein Navigationsmenü sowie Abschnitte für "About", "Projekte", "Leistungen" und "Kontakt". Das Design ist responsiv, sodass es auf verschiedenen Bildschirmgrößen und Geräten gut funktioniert.
 
-Diese Website wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflichtübung<br />
-**Modul: HTML und CSS für Web Developer:innen**
-entwickelt.
+Diese Website wurde im Rahmen einer IT-Ausbildung am WIFI Wien für eine Pflichtübung **(Modul: HTML und CSS für Web Developer:innen)** entwickelt.
 
 ## Funktionen
 
