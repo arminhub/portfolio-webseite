@@ -1,6 +1,6 @@
 # Portfolio-Website (Demo)
 
-![Screenshot](documentation/assets/screenshot.png)
+![Screenshot - Landingpage](documentation/assets/screenshot.png)
 
 ## Beschreibung
 
@@ -17,6 +17,7 @@ Im Rahmen meiner Ausbildung zum geprüften Software-Entwickler am WIFI Wien habe
 - **Kontakt**
 
 **Landing Page**
+
 **Responsives Design**
 
 ## Technologien
