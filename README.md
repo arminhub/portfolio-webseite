@@ -10,15 +10,15 @@ Im Rahmen meiner Ausbildung zum geprüften Software-Entwickler am WIFI Wien habe
 
 ## Must Haves
 
-**Navigationsmenü:**
+**1. Navigationsmenü:**
 - **About**
 - **Projekte**
 - **Leistungen**
 - **Kontakt**
 
-**Landing Page**
+**2. Landing Page**
 
-**Responsives Design**
+**3. Responsives Design**
 
 ## Technologien
 
