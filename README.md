@@ -1,4 +1,4 @@
-# Portfolio-Website (Demo)
+# Portfolio-Website
 
 ![Screenshot - Landingpage](documentation/assets/screenshot.png)
 
